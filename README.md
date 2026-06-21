@@ -8,7 +8,7 @@ A **Tkinter** control panel (object list, tier radio buttons, typed numeric pose
 chosen tier board, even for laid-down objects (roll/pitch). Everything is self-contained — meshes,
 shelf geometry, and the wood texture all live under `assets/`.
 
-![shelf scenario builder](assets/wood.png)
+![shelf scenario builder](assets/output.gif)
 
 ## Install
 
