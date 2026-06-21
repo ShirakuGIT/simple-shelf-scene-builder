@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+assets/meshes/_builder_cache/
+.DS_Store
